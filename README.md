@@ -10,7 +10,7 @@ This repository provides the **binary version** of the tool for easy installatio
 
 ## Binary Download
 
-You can download the precompiled binary for **Windows** from the [releases section](#).
+You can download the precompiled binary for **Windows** from the [releases section](https://github.com/0xissam/AI-Image-Enhancer-Upscaler/releases).
 
 - **Windows**: `AI-Image-Enhancer-Upscaler-win.exe`
 
