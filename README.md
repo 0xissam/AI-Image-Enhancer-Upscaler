@@ -20,7 +20,7 @@ Simply download the binary and run the executable to use the application.
 
 ## Installation
 
-1. Download the Windows executable (`AI-Image-Enhancer-Upscaler-win.exe`) from the [releases section](#).
+1. Download the Windows executable (`[AI-Image-Enhancer-Upscaler-win.exe](https://github.com/0xissam/AI-Image-Enhancer-Upscaler/releases/download/v1.0/ai-image-inhancer-upscaler-setup.exe)`) from the [releases section](#).
 2. Run the executable to install the application on your system.
 3. Once installed, you can open the application directly from your Start menu or desktop shortcut.
 
