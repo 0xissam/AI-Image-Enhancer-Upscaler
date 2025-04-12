@@ -40,7 +40,7 @@ Simply download the binary and run the executable to use the application.
 
 ### Main Window
 
-![Main Window](placeholder_for_main_window_image.png)  
+![Main Window]([placeholder_for_main_window_image.png](https://raw.githubusercontent.com/0xissam/AI-Image-Enhancer-Upscaler/refs/heads/main/main-window.png))  
 *The main interface of the AI Image Enhancer Upscaler.*
 
 ### Image Enhancement in Progress
