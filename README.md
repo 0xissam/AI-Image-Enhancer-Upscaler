@@ -45,7 +45,7 @@ Simply download the binary and run the executable to use the application.
 
 ### Image Enhancement in Progress
 
-![Enhancement in Progress](placeholder_for_enhancement_in_progress_image.png)  
+![Enhancement in Progress](https://raw.githubusercontent.com/0xissam/AI-Image-Enhancer-Upscaler/refs/heads/main/upscaling.png)  
 *The image enhancement process in action.*
 
 ---
